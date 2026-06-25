@@ -16,7 +16,17 @@
 
 O **XFLEX** é uma plataforma de e-commerce completa voltada para o mercado de moda masculina.
 
----
+## 📸 Demonstração
+<img width="2552" height="1012" alt="Captura de tela 2026-06-25 191338" src="https://github.com/user-attachments/assets/81966bb9-a0d9-49f3-8ad5-fa33038f5773" />
+<img width="2558" height="990" alt="Captura de tela 2026-06-25 191345" src="https://github.com/user-attachments/assets/3735fb56-fb2d-4e62-924a-a924642ed8fe" />
+<img width="2558" height="1002" alt="Captura de tela 2026-06-25 191357" src="https://github.com/user-attachments/assets/6cee8861-b462-4f2a-9f46-cae2560f6f0a" />
+<img width="2558" height="587" alt="Captura de tela 2026-06-25 191408" src="https://github.com/user-attachments/assets/163016ea-b969-413b-8780-1f0fe7db8dfd" />
+<img width="2558" height="811" alt="Captura de tela 2026-06-25 191414" src="https://github.com/user-attachments/assets/5c3bc449-fb3d-4d9b-88bb-4bef2e2616a9" />
+<img width="2558" height="866" alt="Captura de tela 2026-06-25 191421" src="https://github.com/user-attachments/assets/f08855ad-1a5e-4ae8-b64c-85847c62c147" />
+<img width="2553" height="682" alt="Captura de tela 2026-06-25 191428" src="https://github.com/user-attachments/assets/75a9e01c-6f9a-4601-8e6d-716a9f9b3612" />
+<img width="2348" height="951" alt="Captura de tela 2026-06-25 191443" src="https://github.com/user-attachments/assets/bcc24432-2b8f-4218-93a2-3f0df16e110a" />
+<img width="2558" height="450" alt="Captura de tela 2026-06-25 191455" src="https://github.com/user-attachments/assets/2afed0e4-b948-4725-ad9d-cdbd5d79d393" />
+
 
 ## ✨ Funcionalidades Principais
 
