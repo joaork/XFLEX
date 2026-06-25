@@ -1,17 +1,14 @@
-<div align="center":>
-  <img src="https://xflex.chtech.info/wp-content/themes/xflex_wordpress_theme/assets/img/xflexlogo.png" alt="XFLEX Logo" width="280"/>
+# 🛍️ XFLEX - Front-end
 
-  #
-  **XFLEX - E-commerce**
+![Project Status](https://img.shields.io/badge/status-concluido-brightgreen) ![Project Type](https://img.shields.io/badge/type-freelance-blue)
 
-  ![Project Status](https://img.shields.io/badge/status-concluido-brightgreen) ![Project Type](https://img.shields.io/badge/type-freelance-blue)
+> **Nota:** Este repositório contém uma demonstração da **Landing Page (Home)** desenvolvida para a XFLEX. Por questões de confidencialidade e propriedade intelectual do cliente, as páginas internas de sistema (login, cadastro, painéis) e lógicas de backend não estão incluídas neste repositório público.
 
   [![WordPress](https://img.shields.io/badge/WordPress-6.x-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
   [![WooCommerce](https://img.shields.io/badge/WooCommerce-10.x-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)](https://woocommerce.com/)
   [![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
   [![HTML5 & CSS3](https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
   [![Boxicons](https://img.shields.io/badge/Boxicons-2.1.4-5468ff?style=for-the-badge)]()
-</div>
 
 <br>
 
